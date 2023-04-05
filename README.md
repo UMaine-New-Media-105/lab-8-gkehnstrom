@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/XgLAZLK6)
+A4Q2 ~ https://editor.p5js.org/gkehnstrom/sketches/2V9hQ2Zid
+
+for this assignment i was tasked to draw a pattern with a loop in p5js. I chose to use stars in columns and rows of 8 but with everyother star being smaller so it has a difference. I chose to keep the same color for everything just for a cleaner look. This sketch I am proud of you could say becuase it looks clean and I completed the assignment. 
